@@ -1,6 +1,6 @@
 # Cookie Recipe
 
-## By Emily Wells Jimenez and Susannah Lowe, 9/5/2017
+## Website by Ellen Krause Lehman, edited by Emily Wells Jimenez and Susannah Lowe, 9/5/2017
 
 ### Description
 This is a recipe for chocolate chip cookies. Enjoy it with your friends and family! _Caution,_ These cookies are **addictive**.
@@ -14,4 +14,4 @@ This is a recipe for chocolate chip cookies. Enjoy it with your friends and fami
 5. Make cookies!
 
 #### Legal
-Copyright (c) 2017 EWJ and SL, this software is licensed through the MIT license. **We are not liable if you burn your tongue on hot cookies.**
+Copyright (c) 2017 Ellen Krause Lehman. **We are not liable if you burn your tongue on hot cookies.**
